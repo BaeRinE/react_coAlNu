@@ -1,0 +1,9 @@
+[submodule "toDoList"]
+	path = toDoList
+	url = https://github.com/BaeRinE/react_toDoList_coAlNu.git
+[submodule "state"]
+	path = state
+	url = https://github.com/BaeRinE/react_state_coAlNu.git
+[submodule "es6"]
+	path = es6
+	url = https://github.com/BaeRinE/react_es6_coAlNu.git
